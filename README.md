@@ -4,9 +4,13 @@
 
 # 👋 Hi, I'm Perez
 
-💻 **Physician | Data Scientist | Health Informatics Professional**  
+💻 **Physician | Data Scientist | Health Informatics Professional** 
+
+---
+
 I am a physician, data scientist, MPH graduate in **Epidemiology** and **Biostatistics**, with 2 years of data science experience.
 I am proficient in R and Python for health data analysis and visualization, statistical modeling, and machine learning.
+
 ---
 
 ## 🚀 About Me
