@@ -2,7 +2,7 @@
 
 
 
-# 👋 Hi, I'm Perez
+# I'm Perez
 
 💻 **Physician | Data Scientist | Health Informatics Professional** 
 
