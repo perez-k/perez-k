@@ -8,7 +8,7 @@
 
 ---
 
-I am a physician, data scientist, MPH graduate in **Epidemiology** and **Biostatistics**, with 2 years of data science experience.
+I am a physician, data scientist, with 2 years of data science experience.
 I am proficient in R and Python for health data analysis and visualization, statistical modeling, and machine learning.
 
 ---
