@@ -15,7 +15,7 @@ Proficient in R and Python for health data analysis and visualization, statistic
 
 ## 🚀 About Me
 - 🎓 **MS in Health Informatics** (in progress) | **MPH in Epidemiology & Biostatistics**  | **Doctor of Medicine**  
-- 💡 Experienced in **Python**, **R**, and **SQL**
+- 💡 Experienced in **Python**, **R**, **SQL**
 - 📊 Skilled in data cleaning, visualization, hypothesis testing, regression analysis (linear, logistic, survival …), machine learning, predictive analytics, ...
 - 🌍 Artificial intelligence in healthcare
 - 🤝 Collaborative, adaptable, and committed to evidence-based interventions  
